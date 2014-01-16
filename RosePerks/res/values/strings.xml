@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RosePerks</string>
+    <string name="action_settings">Log Out</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="RosePerks">Rose Perks</string>
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="title_activity_perks_list">PerksListActivity</string>
+    <string name="add_view_button">Add View</string>
+    <string name="Dining">Dining</string>
+    <string name="Entertainment">Entertainment</string>
+    <string name="Hotel">Hotel</string>
+    <string name="Miscellaneous">Miscellaneous</string>
+    <string name="Bankings">Bankings</string>
+    <string name="AllPerks">All Perks</string>
+
+</resources>
